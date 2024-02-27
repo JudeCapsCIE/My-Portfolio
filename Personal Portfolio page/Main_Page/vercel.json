@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/Personal Portfolio page/Main_Page/mainPage.html" }
+  ]
+}
